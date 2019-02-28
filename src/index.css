@@ -1,0 +1,25 @@
+body {
+
+  background-color: grey;
+}
+
+
+a{
+  color:white;
+}
+a:hover{
+  color:white;
+}
+
+p{
+  color:white;
+}
+
+h4{color:white;
+}
+
+.ortala{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
